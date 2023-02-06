@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FB5012&height=150&section=header&text=Ol%C3%A1%2C%20eu%20sou%20o%20Thiago%20Gomes%20%F0%9F%91%8B&fontSize=30&animation=fadeIn&fontColor=EEE&fontAlignY=30" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FB5012&height=150&section=header&text=Hello%2C%20I%27m%20Thiago%20Gomes%20%F0%9F%91%8B&fontSize=30&animation=fadeIn&fontColor=EEE&fontAlignY=30" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FB5012&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;My+name+is+Thiago+Gomes+de+Almeida;I'm+18+years+old;I'm+from+S%C3%A3o+Paulo%2C+SP+-+Brazil;I'm+a+Web+and+Mobile+Developer" alt="Typing SVG" /></a>
 
