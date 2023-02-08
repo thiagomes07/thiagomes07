@@ -36,6 +36,6 @@
 
 </br>
 
-I am passionate about development, whether Web or Mobile, so I intend to graduate in Software Engineering. I am currently looking for a job where I can put my accumulated skills to use.
+I am a highly motivated and dedicated systems development technician, passionate about technology and development. I have experience in creating mobile applications, web applications, and websites. I am capable of both web and mobile development. I possess important skills for professional success, including proactivity, curiosity, commitment, empathy, responsibility, and good writing and reading skills. In addition to certified courses, I have also taken many others without certification. I am confident that I can contribute with my technical background and interpersonal skills to develop innovative and efficient solutions for the challenges of the industry. I am excited to apply my knowledge and advance in my career.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FB5012&height=100&section=footer" />
