@@ -10,16 +10,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511953015481&text=Ol%C3%A1%2C%20Thiago!)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagomes07/)
 
----
-
-</br>
-
-<div align="center">  
-  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagomes07&show_icons=true&theme=highcontrast&ring_color=fb5012&border_radius=5&title_color=fb5012&icon_color=fb5012" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomes07&layout=compact&&theme=highcontrast&title_color=fb5012&text_bold=true&border_radius=5&card_width=40%" />
-</div>
-
-</br>
 
 ---
 
